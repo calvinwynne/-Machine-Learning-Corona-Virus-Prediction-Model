@@ -1,0 +1,186 @@
+Country/Region,Case,Accuracy,DaySince,4/13/20,Predicted Day: 1,Predicted Day: 2,Predicted Day: 3,Predicted Day: 4,Predicted Day: 5
+China,Recovered,98.35,84.0,78039,83979,84256,84512,84762,85015
+Spain,Recovered,97.36,60.0,64727,76604,81447,86206,90750,94014
+Germany,Recovered,96.21,62.0,64300,92295,94902,100845,105799,112606
+Iran,Recovered,99.17,49.0,45983,51433,56483,66864,69976,73316
+US,Recovered,94.1,66.0,43482,42635,48079,52083,54867,71694
+Italy,Recovered,99.41,53.0,35435,38925,41518,44232,46428,48042
+France,Recovered,98.12,63.0,28001,35072,37563,39624,40780,41560
+Switzerland,Recovered,92.72,43.0,13700,16779,17527,18997,19889,21359
+Canada,Recovered,94.75,63.0,7758,10037,11351,12743,13757,14962
+"Korea, South",Recovered,97.19,68.0,7447,8138,8299,8443,8586,8685
+Austria,Recovered,98.15,37.0,7343,9579,11001,11937,12604,13225
+Belgium,Recovered,98.24,58.0,6707,8166,8776,9407,10126,10498
+Turkey,Recovered,93.26,21.0,3957,4773,5376,6534,7563,8656
+Peru,Recovered,92.43,29.0,2642,2445,2656,2929,3026,4369
+Denmark,Recovered,95.55,40.0,2403,2568,2628,2840,3049,3182
+Chile,Recovered,96.55,26.0,2367,3096,3802,4499,4963,5695
+Malaysia,Recovered,96.49,68.0,2276,2642,2994,3256,3435,3702
+Israel,Recovered,99.32,48.0,1855,2240,2617,2963,3588,4087
+Mexico,Recovered,29.13,43.0,1843,1118,1122,1125,2783,2889
+Australia,Recovered,96.75,76.0,1806,2751,3333,3358,3360,3361
+Russia,Recovered,93.51,63.0,1470,1714,1947,2548,3140,3571
+Thailand,Recovered,92.44,80.0,1288,1332,1426,1582,1688,1779
+India,Recovered,98.36,59.0,1181,1557,1944,2434,2713,2966
+Pakistan,Recovered,93.96,38.0,1095,1396,1765,1849,2482,2642
+Iceland,Recovered,97.7,36.0,933,1126,1224,1365,1441,1510
+Romania,Recovered,97.83,42.0,914,1155,1299,1350,1515,1624
+United Arab Emirates,Recovered,95.13,63.0,852,795,1278,1825,2120,2674
+Saudi Arabia,Recovered,92.46,36.0,805,1021,1049,1099,1157,1220
+Japan,Recovered,98.84,80.0,784,792,853,941,943,969
+Iraq,Recovered,98.36,37.0,717,851,942,1028,1094,1224
+Diamond Princess,Recovered,95.83,56.0,619,688,693,698,702,707
+Algeria,Recovered,71.13,34.0,601,867,1014,1154,1487,1512
+Ecuador,Recovered,92.26,25.0,597,1161,1260,1406,1712,2039
+Bahrain,Recovered,98.08,40.0,591,643,666,685,689,727
+Egypt,Recovered,94.56,47.0,589,599,661,733,1013,1013
+Singapore,Recovered,99.16,67.0,586,691,742,801,852,894
+New Zealand,Recovered,95.9,22.0,546,728,856,968,1080,1251
+Czechia,Recovered,98.07,30.0,519,782,896,1060,1194,1334
+Argentina,Recovered,93.9,32.0,515,490,503,580,614,670
+Luxembourg,Recovered,67.19,24.0,500,545,548,551,554,557
+Poland,Recovered,96.15,30.0,487,671,749,880,1026,1136
+South Africa,Recovered,87.73,22.0,410,269,1168,1168,1168,1168
+Croatia,Recovered,98.42,33.0,400,443,467,648,746,799
+Sweden,Recovered,83.6,37.0,381,318,549,550,551,552
+Indonesia,Recovered,99.49,36.0,380,424,473,479,598,633
+Qatar,Recovered,96.85,32.0,334,379,417,453,504,611
+Colombia,Recovered,95.99,29.0,319,427,482,523,658,776
+United Kingdom,Recovered,90.66,63.0,304,576,935,989,996,491
+Finland,Recovered,51.47,63.0,300,307,309,311,313,315
+Netherlands,Recovered,60.2,32.0,295,297,306,310,315,316
+Azerbaijan,Recovered,93.09,35.0,289,416,672,853,1073,1245
+Portugal,Recovered,93.13,33.0,277,337,379,429,447,447
+Greece,Recovered,72.88,32.0,269,353,353,354,355,356
+Philippines,Recovered,91.21,63.0,242,269,305,343,432,532
+Albania,Recovered,98.67,25.0,232,268,294,317,348,371
+Uruguay,Recovered,93.92,15.0,231,337,360,373,402,402
+Jordan,Recovered,91.41,33.0,215,260,273,284,320,341
+Armenia,Recovered,95.67,29.0,211,273,294,340,386,413
+Bosnia and Herzegovina,Recovered,97.87,29.0,206,298,380,410,568,606
+Belarus,Recovered,93.67,37.0,203,280,339,345,407,407
+Morocco,Recovered,97.26,33.0,203,207,231,274,329,376
+Senegal,Recovered,98.13,38.0,178,204,226,249,279,290
+Brazil,Recovered,92.52,30.0,173,194,195,196,197,198
+Burkina Faso,Recovered,93.24,25.0,161,213,214,226,234,235
+Dominican Republic,Recovered,98.98,22.0,152,261,319,351,425,493
+Slovenia,Recovered,91.9,21.0,152,184,196,210,213,216
+Kuwait,Recovered,97.9,38.0,150,144,158,171,181,191
+Vietnam,Recovered,91.98,74.0,146,175,196,196,196,199
+Kazakhstan,Recovered,90.17,20.0,138,122,130,163,198,274
+Andorra,Recovered,97.29,34.0,128,163,199,199,358,358
+Oman,Recovered,96.22,46.0,124,173,174,174,174,197
+Cuba,Recovered,92.68,22.0,121,97,179,272,325,429
+Hungary,Recovered,94.2,32.0,120,154,179,184,188,192
+Venezuela,Recovered,95.82,24.0,110,117,117,129,129,151
+Taiwan*,Recovered,94.87,69.0,109,100,140,153,170,169
+Slovakia,Recovered,94.35,24.0,107,68,68,68,68,325
+Moldova,Recovered,91.4,29.0,107,89,100,132,164,186
+Brunei,Recovered,92.78,26.0,107,120,128,134,136,138
+Estonia,Recovered,97.85,31.0,102,128,143,143,151,157
+Lithuania,Recovered,52.98,31.0,101,36,249,249,449,468
+Cameroon,Recovered,94.48,21.0,98,131,206,206,207,207
+Ukraine,Recovered,93.82,25.0,97,109,148,191,215,234
+Nigeria,Recovered,97.79,28.0,91,100,113,136,164,175
+Cote d'Ivoire,Recovered,93.56,29.0,89,98,98,109,156,163
+Uzbekistan,Recovered,93.19,19.0,85,64,70,71,107,137
+Lebanon,Recovered,97.8,42.0,80,91,102,103,107,107
+Cambodia,Recovered,91.38,63.0,77,90,104,108,111,111
+Niger,Recovered,20.45,10.0,75,107,110,110,194,194
+Bulgaria,Recovered,97.5,25.0,71,78,87,100,109,114
+Georgia,Recovered,98.46,30.0,68,76,81,89,99,100
+Kyrgyzstan,Recovered,91.55,16.0,67,59,59,72,87,106
+Cyprus,Recovered,92.52,24.0,65,74,80,84,89,89
+Costa Rica,Recovered,91.36,25.0,62,70,97,113,129,142
+West Bank and Gaza,Recovered,92.87,26.0,58,59,60,74,76,76
+Kosovo,Recovered,96.55,19.0,58,67,114,127,127,127
+Sri Lanka,Recovered,94.43,67.0,56,71,78,78,80,81
+Liechtenstein,Recovered,33.44,9.0,55,55,55,55,55,55
+San Marino,Recovered,92.16,32.0,53,71,72,76,76,76
+Malta,Recovered,57.53,33.0,44,67,67,67,189,189
+North Macedonia,Recovered,92.67,33.0,44,54,60,60,60,64
+Tunisia,Recovered,43.4,24.0,43,44,44,74,74,74
+Bangladesh,Recovered,92.41,30.0,42,39,39,42,45,49
+Mauritius,Recovered,73.59,11.0,42,62,62,75,111,111
+Rwanda,Recovered,77.75,10.0,42,20,20,50,70,116
+Djibouti,Recovered,49.72,12.0,41,82,118,118,118,134
+Kenya,Recovered,91.13,21.0,40,46,85,93,97,155
+Afghanistan,Recovered,94.75,30.0,32,50,50,50,50,50
+Norway,Recovered,88.43,37.0,32,38,38,38,38,38
+Zambia,Recovered,90.59,12.0,30,114,119,133,142,142
+Togo,Recovered,90.32,26.0,29,31,32,32,36,36
+Panama,Recovered,93.13,22.0,29,23,23,24,32,39
+Mali,Recovered,63.22,11.0,26,40,40,40,40,47
+Ireland,Recovered,71.42,29.0,25,25,25,25,26,26
+El Salvador,Recovered,45.43,11.0,22,63,67,85,94,98
+Paraguay,Recovered,91.07,19.0,22,27,27,27,32,33
+Madagascar,Recovered,52.11,10.0,21,33,33,33,58,61
+Guatemala,Recovered,90.03,21.0,19,21,21,23,23,23
+Jamaica,Recovered,92.98,30.0,19,20,21,21,21,31
+Guinea,Recovered,95.33,12.0,17,30,41,46,46,46
+Congo (Kinshasa),Recovered,90.81,19.0,17,18,25,31,31,33
+Latvia,Recovered,18.66,36.0,16,13,13,13,13,13
+Trinidad and Tobago,Recovered,23.81,25.0,16,3,3,29,38,38
+Ethiopia,Recovered,-16.55,24.0,14,7,7,15,15,20
+Maldives,Recovered,90.03,22.0,14,14,14,14,15,15
+Barbados,Recovered,90.87,10.0,13,18,18,18,18,21
+Libya,Recovered,17.38,15.0,9,10,10,10,11,11
+Guyana,Recovered,13.2,9.0,8,8,8,8,8,8
+Dominica,Recovered,92.45,9.0,8,6,29,29,47,47
+Eswatini,Recovered,48.33,9.0,7,8,8,8,8,8
+Tanzania,Recovered,96.14,19.0,7,6,6,6,6,9
+Uganda,Recovered,0.0,4.0,7,1,1,1,1,1
+Honduras,Recovered,90.66,18.0,7,7,8,8,8,8
+Bahamas,Recovered,64.4,22.0,6,5,5,5,5,6
+Suriname,Recovered,20.51,7.0,6,1,1,1,1,1
+Monaco,Recovered,95.11,24.0,6,7,7,7,9,9
+Congo (Brazzaville),Recovered,82.43,13.0,5,8,8,8,8,8
+Montenegro,Recovered,-291.84,12.0,5,15,15,19,19,19
+Syria,Recovered,-0.8,11.0,5,6,6,7,7,7
+Benin,Recovered,70.21,15.0,5,6,6,6,6,6
+Nicaragua,Recovered,0.0,3.0,4,0,0,0,0,0
+Saint Lucia,Recovered,49.04,19.0,4,1,1,1,4,4
+Ghana,Recovered,25.6,20.0,4,7,7,8,8,8
+Liberia,Recovered,80.92,11.0,4,3,3,3,3,3
+Sudan,Recovered,59.14,15.0,4,2,2,2,2,4
+Equatorial Guinea,Recovered,74.62,15.0,4,3,3,3,3,5
+Mongolia,Recovered,74.97,16.0,4,5,5,5,5,5
+Angola,Recovered,85.55,15.0,4,3,3,6,6,6
+Central African Republic,Recovered,0.0,2.0,3,0,0,0,0,0
+Namibia,Recovered,90.43,22.0,3,3,3,3,3,3
+Bhutan,Recovered,54.94,13.0,2,2,2,2,2,2
+Chad,Recovered,41.4,8.0,2,2,2,2,2,2
+Gambia,Recovered,83.4,14.0,2,2,2,2,2,2
+Burma,Recovered,20.42,6.0,2,0,0,0,0,0
+Mozambique,Recovered,61.67,11.0,2,1,3,3,3,3
+Somalia,Recovered,26.06,15.0,2,1,1,1,2,2
+Holy See,Recovered,21.2,7.0,2,0,0,0,0,0
+Bolivia,Recovered,56.37,14.0,2,2,2,2,2,2
+Mauritania,Recovered,82.56,17.0,2,2,2,2,2,2
+Cabo Verde,Recovered,15.78,9.0,1,1,1,1,1,1
+Timor-Leste,Recovered,14.83,5.0,1,0,0,0,0,0
+Nepal,Recovered,52.71,63.0,1,1,1,1,1,1
+Gabon,Recovered,0.0,12.0,1,1,1,1,1,1
+Saint Vincent and the Grenadines,Recovered,71.75,18.0,1,1,1,1,1,1
+Serbia,Recovered,-776.33,30.0,0,1,1,2,2,2
+Fiji,Recovered,100.0,,0,0,0,0,0,0
+Seychelles,Recovered,100.0,,0,0,0,0,0,0
+Sierra Leone,Recovered,100.0,,0,0,0,0,0,0
+Eritrea,Recovered,100.0,,0,0,0,0,0,0
+Laos,Recovered,100.0,,0,0,0,0,0,0
+South Sudan,Recovered,100.0,,0,0,0,0,0,0
+Saint Kitts and Nevis,Recovered,100.0,,0,0,0,0,0,0
+Grenada,Recovered,100.0,,0,0,0,0,0,0
+MS Zaandam,Recovered,100.0,,0,0,0,0,0,0
+Papua New Guinea,Recovered,100.0,,0,0,0,0,0,0
+Guinea-Bissau,Recovered,100.0,,0,0,0,0,0,0
+Malawi,Recovered,100.0,,0,0,0,0,0,0
+Burundi,Recovered,100.0,,0,0,0,0,0,0
+Sao Tome and Principe,Recovered,100.0,,0,0,0,0,0,0
+Botswana,Recovered,100.0,,0,0,0,0,0,0
+Yemen,Recovered,100.0,,0,0,0,0,0,0
+Western Sahara,Recovered,100.0,,0,0,0,0,0,0
+Antigua and Barbuda,Recovered,100.0,,0,0,0,0,0,0
+Belize,Recovered,100.0,,0,0,0,0,0,0
+Haiti,Recovered,17.22,17.0,0,0,0,0,0,0
+Zimbabwe,Recovered,100.0,,0,0,0,0,0,0

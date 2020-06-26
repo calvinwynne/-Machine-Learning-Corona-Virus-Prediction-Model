@@ -1,0 +1,186 @@
+Country/Region,Case,Accuracy,DaySince,4/13/20,Predicted Day: 1,Predicted Day: 2,Predicted Day: 3,Predicted Day: 4,Predicted Day: 5
+US,Deaths,96.18,46.0,23529,30787,34620,38034,40870,43618
+Italy,Deaths,98.87,54.0,20465,22764,23436,24163,24681,25349
+Spain,Deaths,97.75,43.0,17756,20457,21245,21903,22653,23337
+France,Deaths,98.04,60.0,14986,18840,20283,21220,22049,22897
+United Kingdom,Deaths,97.87,41.0,11347,14585,16309,17922,19220,20484
+Iran,Deaths,99.25,56.0,4585,4921,5058,5199,5331,5457
+Belgium,Deaths,98.52,35.0,3903,4847,5771,6381,6855,7421
+China,Deaths,97.86,84.0,3345,3286,3280,3276,3269,3264
+Germany,Deaths,95.64,37.0,3194,4000,4234,4194,4609,4860
+Netherlands,Deaths,96.91,40.0,2833,3363,3517,3692,3818,3933
+Brazil,Deaths,96.74,29.0,1328,1861,2066,2194,2383,2584
+Turkey,Deaths,97.97,29.0,1296,1544,1702,1855,2011,2169
+Switzerland,Deaths,96.85,41.0,1138,1301,1371,1416,1506,1548
+Sweden,Deaths,97.01,35.0,919,1332,1456,1484,1504,1538
+Canada,Deaths,95.01,37.0,779,999,1103,1290,1407,1532
+Portugal,Deaths,97.71,29.0,535,608,645,694,742,786
+Indonesia,Deaths,96.93,35.0,399,429,467,498,565,603
+Austria,Deaths,97.5,34.0,368,466,503,530,550,578
+Ireland,Deaths,97.47,35.0,365,465,506,562,586,639
+India,Deaths,99.68,35.0,358,494,536,626,718,776
+Ecuador,Deaths,97.37,32.0,355,437,475,503,531,565
+Romania,Deaths,96.97,24.0,331,411,446,479,518,542
+Philippines,Deaths,98.63,73.0,315,307,333,371,444,470
+Algeria,Deaths,94.2,34.0,313,391,424,455,484,515
+Mexico,Deaths,94.24,27.0,296,390,434,520,608,658
+Denmark,Deaths,97.28,32.0,285,338,351,369,386,402
+Poland,Deaths,95.24,34.0,245,307,319,365,406,428
+"Korea, South",Deaths,99.57,55.0,217,231,235,239,242,245
+Peru,Deaths,98.57,26.0,216,260,316,338,360,402
+Dominican Republic,Deaths,98.2,29.0,177,194,206,221,280,286
+Egypt,Deaths,99.55,38.0,164,194,221,238,259,267
+Russia,Deaths,96.8,27.0,148,158,194,219,267,303
+Czechia,Deaths,94.88,24.0,143,195,207,223,238,247
+Norway,Deaths,98.28,32.0,134,163,170,178,191,200
+Morocco,Deaths,95.55,36.0,126,149,163,169,180,191
+Japan,Deaths,98.73,62.0,123,117,123,123,134,151
+Israel,Deaths,98.45,25.0,116,152,168,178,182,204
+Colombia,Deaths,99.42,24.0,112,147,170,212,231,237
+Hungary,Deaths,98.23,31.0,109,131,152,168,196,216
+Greece,Deaths,97.74,35.0,99,115,121,122,128,130
+Argentina,Deaths,97.98,38.0,97,117,133,134,145,156
+Ukraine,Deaths,98.02,33.0,93,105,126,133,151,169
+Pakistan,Deaths,93.75,27.0,93,101,102,132,139,142
+Panama,Deaths,94.39,35.0,87,92,97,108,115,126
+Serbia,Deaths,91.61,26.0,85,103,111,115,124,132
+Chile,Deaths,99.34,24.0,82,107,121,136,148,152
+Iraq,Deaths,96.12,42.0,78,82,83,85,90,92
+Malaysia,Deaths,95.58,29.0,77,85,88,92,95,97
+Luxembourg,Deaths,99.05,32.0,69,77,80,91,97,101
+Saudi Arabia,Deaths,95.9,22.0,65,72,76,84,94,103
+Australia,Deaths,96.54,45.0,61,73,77,81,86,87
+Finland,Deaths,97.94,25.0,59,67,76,78,89,93
+Slovenia,Deaths,97.31,32.0,55,70,74,82,86,90
+Thailand,Deaths,95.6,45.0,40,49,50,53,58,61
+Bangladesh,Deaths,93.56,28.0,39,44,57,63,72,82
+Bosnia and Herzegovina,Deaths,92.45,25.0,39,50,52,53,56,56
+North Macedonia,Deaths,95.89,24.0,38,44,47,50,50,55
+San Marino,Deaths,98.15,43.0,35,38,38,39,39,39
+Moldova,Deaths,90.08,28.0,35,49,49,51,53,59
+Tunisia,Deaths,93.94,27.0,34,34,34,38,41,45
+Bulgaria,Deaths,93.04,35.0,32,34,35,39,40,44
+Belarus,Deaths,91.52,15.0,29,33,39,47,53,59
+Andorra,Deaths,93.39,24.0,29,35,36,36,40,40
+Estonia,Deaths,90.61,21.0,28,35,35,35,36,40
+South Africa,Deaths,95.86,19.0,27,31,41,42,42,46
+Bolivia,Deaths,95.18,17.0,27,30,32,33,39,44
+Burkina Faso,Deaths,94.97,28.0,27,33,33,37,37,37
+Honduras,Deaths,89.53,20.0,25,30,30,31,32,32
+Croatia,Deaths,93.86,27.0,25,28,29,29,32,34
+United Arab Emirates,Deaths,96.58,26.0,25,23,26,32,35,40
+Lithuania,Deaths,98.18,25.0,24,24,33,34,34,36
+Albania,Deaths,95.45,35.0,23,28,28,28,28,28
+Afghanistan,Deaths,91.66,24.0,21,24,24,29,29,33
+Cuba,Deaths,98.82,28.0,21,26,26,28,31,36
+Congo (Kinshasa),Deaths,93.7,25.0,20,22,25,25,25,25
+Lebanon,Deaths,90.49,36.0,20,22,23,23,23,23
+Armenia,Deaths,92.83,20.0,14,14,17,19,19,20
+Cameroon,Deaths,95.4,21.0,12,13,15,15,15,15
+Cyprus,Deaths,91.06,24.0,12,11,11,11,12,13
+Niger,Deaths,72.66,21.0,12,13,13,13,14,14
+Kazakhstan,Deaths,96.3,26.0,12,12,14,14,14,17
+Azerbaijan,Deaths,98.07,33.0,12,12,13,15,15,16
+Diamond Princess,Deaths,95.8,55.0,11,12,12,12,12,12
+Nigeria,Deaths,94.15,23.0,10,11,11,16,16,16
+Mali,Deaths,91.74,17.0,10,10,10,10,13,14
+Kenya,Deaths,94.11,20.0,9,9,9,9,10,12
+Singapore,Deaths,93.43,25.0,9,7,8,9,9,11
+Venezuela,Deaths,94.05,19.0,9,11,11,11,11,11
+Mauritius,Deaths,95.26,25.0,9,8,11,11,11,11
+Ghana,Deaths,90.4,25.0,8,7,7,8,8,8
+Uruguay,Deaths,91.66,17.0,8,8,8,8,8,10
+Iceland,Deaths,90.48,31.0,8,6,7,8,8,8
+Trinidad and Tobago,Deaths,90.42,21.0,8,10,10,10,10,10
+Bahamas,Deaths,87.71,14.0,8,11,11,11,11,12
+Kosovo,Deaths,62.11,20.0,7,10,13,13,13,13
+Qatar,Deaths,91.01,18.0,7,8,8,8,9,9
+Jordan,Deaths,93.14,19.0,7,8,8,8,8,8
+Sri Lanka,Deaths,94.23,18.0,7,8,8,8,8,8
+Cote d'Ivoire,Deaths,92.61,17.0,6,4,4,6,7,9
+Bahrain,Deaths,90.33,30.0,6,5,6,6,6,6
+Liberia,Deaths,12.54,11.0,6,6,8,8,8,9
+Taiwan*,Deaths,86.96,59.0,6,5,6,6,6,6
+El Salvador,Deaths,93.22,15.0,6,9,9,9,9,9
+Paraguay,Deaths,93.12,25.0,6,5,6,6,7,7
+Guyana,Deaths,90.97,34.0,6,7,7,7,7,7
+Guatemala,Deaths,67.56,30.0,5,4,4,4,6,6
+New Zealand,Deaths,65.97,17.0,5,2,3,6,6,8
+Congo (Brazzaville),Deaths,63.06,13.0,5,6,6,6,6,6
+Kyrgyzstan,Deaths,71.16,12.0,5,5,6,6,6,6
+Latvia,Deaths,93.43,12.0,5,7,7,7,12,12
+Barbados,Deaths,66.83,10.0,4,4,5,5,5,5
+Burma,Deaths,76.68,15.0,4,4,4,4,5,5
+Oman,Deaths,92.33,15.0,4,4,4,4,6,6
+Uzbekistan,Deaths,72.26,19.0,4,3,3,4,4,4
+Jamaica,Deaths,90.37,27.0,4,4,4,4,4,4
+Sudan,Deaths,86.36,33.0,4,2,2,2,2,3
+Ethiopia,Deaths,62.44,10.0,3,3,4,4,4,4
+Costa Rica,Deaths,70.02,27.0,3,3,3,3,3,3
+Malta,Deaths,5.53,7.0,3,5,5,7,7,7
+Haiti,Deaths,91.68,10.0,3,4,4,4,6,6
+Zimbabwe,Deaths,68.17,23.0,3,4,4,4,4,4
+Montenegro,Deaths,79.76,23.0,3,2,2,2,3,3
+Togo,Deaths,80.83,19.0,3,3,3,3,3,3
+Tanzania,Deaths,67.79,15.0,3,1,4,4,4,4
+Georgia,Deaths,61.01,11.0,3,4,4,4,4,4
+Malawi,Deaths,21.68,8.0,2,0,0,0,0,0
+MS Zaandam,Deaths,62.06,14.0,2,2,2,2,2,2
+Zambia,Deaths,80.95,13.0,2,1,2,2,2,2
+West Bank and Gaza,Deaths,66.2,20.0,2,1,2,2,2,2
+Angola,Deaths,93.37,17.0,2,2,2,2,2,2
+Antigua and Barbuda,Deaths,16.66,8.0,2,0,0,0,0,0
+Belize,Deaths,43.14,9.0,2,2,3,3,3,3
+Kuwait,Deaths,71.88,11.0,2,1,1,1,1,1
+Djibouti,Deaths,-5.21,5.0,2,0,0,0,0,0
+Syria,Deaths,58.4,17.0,2,2,2,2,2,2
+Somalia,Deaths,-4.42,7.0,2,1,2,2,2,3
+Slovakia,Deaths,36.93,28.0,2,2,2,2,2,2
+Senegal,Deaths,53.18,14.0,2,2,2,2,2,2
+Gabon,Deaths,76.0,26.0,1,1,1,1,1,1
+Monaco,Deaths,64.89,17.0,1,1,1,1,1,1
+Nicaragua,Deaths,52.94,19.0,1,1,1,1,1,1
+Liechtenstein,Deaths,33.93,11.0,1,1,1,1,1,1
+Libya,Deaths,44.95,13.0,1,1,1,1,1,1
+Mauritania,Deaths,53.21,16.0,1,1,1,1,1,1
+Brunei,Deaths,91.74,18.0,1,1,1,1,1,1
+Gambia,Deaths,91.94,23.0,1,1,1,1,1,1
+Benin,Deaths,-16.02,9.0,1,1,1,1,1,1
+Cabo Verde,Deaths,68.52,22.0,1,1,1,1,1,1
+Burundi,Deaths,-4.0,2.0,1,0,0,0,0,0
+Botswana,Deaths,74.05,15.0,1,1,1,1,1,1
+Suriname,Deaths,55.46,12.0,1,1,1,1,1,1
+Laos,Deaths,100.0,,0,0,0,0,0,0
+Guinea,Deaths,100.0,,0,0,0,0,0,0
+Saint Vincent and the Grenadines,Deaths,100.0,,0,0,0,0,0,0
+Namibia,Deaths,100.0,,0,0,0,0,0,0
+Saint Lucia,Deaths,100.0,,0,0,0,0,0,0
+Fiji,Deaths,100.0,,0,0,0,0,0,0
+Saint Kitts and Nevis,Deaths,100.0,,0,0,0,0,0,0
+Eritrea,Deaths,100.0,,0,0,0,0,0,0
+Eswatini,Deaths,100.0,,0,0,0,0,0,0
+Seychelles,Deaths,100.0,,0,0,0,0,0,0
+Rwanda,Deaths,100.0,,0,0,0,0,0,0
+Equatorial Guinea,Deaths,100.0,,0,0,0,0,0,0
+Dominica,Deaths,100.0,,0,0,0,0,0,0
+Guinea-Bissau,Deaths,100.0,,0,0,0,0,0,0
+Holy See,Deaths,100.0,,0,0,0,0,0,0
+Sierra Leone,Deaths,100.0,,0,0,0,0,0,0
+Chad,Deaths,100.0,,0,0,0,0,0,0
+South Sudan,Deaths,100.0,,0,0,0,0,0,0
+Maldives,Deaths,100.0,,0,0,0,0,0,0
+Bhutan,Deaths,100.0,,0,0,0,0,0,0
+Cambodia,Deaths,100.0,,0,0,0,0,0,0
+Madagascar,Deaths,100.0,,0,0,0,0,0,0
+Uganda,Deaths,100.0,,0,0,0,0,0,0
+Papua New Guinea,Deaths,100.0,,0,0,0,0,0,0
+Grenada,Deaths,100.0,,0,0,0,0,0,0
+Timor-Leste,Deaths,100.0,,0,0,0,0,0,0
+Sao Tome and Principe,Deaths,100.0,,0,0,0,0,0,0
+Mongolia,Deaths,100.0,,0,0,0,0,0,0
+Vietnam,Deaths,100.0,,0,0,0,0,0,0
+Western Sahara,Deaths,100.0,,0,0,0,0,0,0
+Yemen,Deaths,100.0,,0,0,0,0,0,0
+Mozambique,Deaths,100.0,,0,0,0,0,0,0
+Central African Republic,Deaths,100.0,,0,0,0,0,0,0
+Nepal,Deaths,100.0,,0,0,0,0,0,0
